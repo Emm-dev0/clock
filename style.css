@@ -4,7 +4,7 @@
   }
   
   body {
-    background: -webkit-linear-gradient(to right, rgb (255, 229, 180), hsl (175°, 100%, 50%));
+    background-color: linear-gradient(to right, rgb (255, 229, 180), hsl (175°, 100%, 50%));
     display: flex;
     flex-direction: column;
     text-align: center;
