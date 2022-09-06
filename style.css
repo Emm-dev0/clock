@@ -5,6 +5,8 @@
   
   body {
     background-color: linear-gradient(to right, rgb (255, 229, 180), hsl (175°, 100%, 50%));
+    background-attachment: fixed;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     text-align: center;
